@@ -1,25 +1,19 @@
-<h2>Hi 👋, I'm Olivier Cagnat - Full Stack Web Developer</h2>
+<h2>Bonjour 🇫🇷 I'm Olivier Cagnat - Full Stack Web Developer</h2>
 <h3>Who am I?</h3>
 
-<p> 💻 Working with Ruby on Rails on the back end, and have been using HTML5 / CSS3 / JS(ES6) for the front end of my last projects.
-🔎 Deepening my skills in Ruby and Javascript with my former Le Wagon classes.
-👁 Looking forward to learn more about Computer Science with CS50 classes from Harvard.
-📚 Studied at Le Wagon Tokyo (Batch 718 - Winter 2022).
-🏊🏻‍♂️ Piscine survivor at 42 Tokyo with +400h of C and Bash(Unix) in 4 weeks - ranked 15/200.
-🇯🇵 Studying japanese language and targeting JLPT N3 in July 2022.
-🏛 Former career as finance legal counsel.
-🥅 Goal: To build a career in Tech in Tokyo and learn everyday!
-🎚 Electronic music enthusiast.
-🍛 Thai curry master.</p>
-  
-- 💻 Working with **Ruby on Rails** on the back end, and then for front end I have been using **CSS3**, **HTML5** and **JS (ES6)**.
-- 🥰 I'm currently learning and loving React too!
-- 📚 Studied at Le Wagon Tokyo (Batch 718 - Winter 2022).
-- 👨‍🏫 Currently working as an English Language Instructor for Gaba.
-- 🥅 Goal: To eventually build a career in Tech and learn new languages and frameworks!
-- 🎮 Keen gamer!
-- 🍜 Ramen lover.
-  
+<ul>
+  <li>💻 Working with <strong>Ruby on Rails</strong> on the back end, and have been using <strong>HTML5 / CSS3 / JS(ES6)</strong> for the front end of my last projects.</li>
+  <li>🔎 Deepening my skills in Ruby and Javascript with my former Le Wagon classes.</li>
+  <li>👁 Looking forward to learn more about Computer Science with CS50 classes from Harvard.</li>
+  <li>📚 Studied at <strong>Le Wagon Tokyo</strong> (Batch 718 - Winter 2022).</li>
+  <li>🏊🏻‍♂️ Piscine survivor at 42 Tokyo with +400h of C and Bash(Unix) in 4 weeks - ranked 15/200.</li>
+  <li>🇯🇵 Studying japanese language and targeting JLPT N3 in July 2022.</li>
+  <li>🏛 Former career as finance legal counsel.</li>
+  <li>🥅 Goal: To build a career in Tech in Tokyo and learn everyday!</li>
+  <li>🎚 Electronic music enthusiast.</li>
+  <li>🍛 Thai curry master.</li>
+</ul>
+
 <h3 align="left">Let's Connect!</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/olivier-cagnat-1155b78a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olivier-cagnat" height="30" width="40" /></a>
