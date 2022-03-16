@@ -1,8 +1,18 @@
 <h1 align="center">Hi 👋, I'm Olivier Cagnat - Full Stack Web Developer</h1>
 <h3 align="center">Who am I?</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oliviercagnat" alt="oliviercagnat" /></a> </p>
-
+<p> 💻 Working with Ruby on Rails on the back end, and have been using HTML5 / CSS3 / JS(ES6) for the front end of my last projects.</p>
+<p> 🔎 Deepening my skills in Ruby and Javascript with my former Le Wagon classes.</p>
+<p> 👁 Looking forward to learn more about Computer Science with CS50 classes from Harvard.</p>
+<p> 📚 Studied at Le Wagon Tokyo (Batch 718 - Winter 2022).</p>
+<p> 🏊🏻‍♂️ Piscine survivor at 42 Tokyo with +400h of C and Bash(Unix) in 4 weeks - ranked 15/200.</p>
+<p> 🇯🇵 Studying japanese language and targeting JLPT N3 in July 2022.</p>
+<p> 🏛 Former career as finance legal counsel.</p>
+<p> 🥅 Goal: To build a career in Tech in Tokyo and learn everyday!</p>
+<p> 🎚 Electronic music enthusiast.</p>
+<p> 🍛 Thai curry master.</p>
+  
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/olivier-cagnat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olivier-cagnat" height="30" width="40" /></a>
