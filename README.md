@@ -5,7 +5,7 @@
 <p> 🔎 Deepening my skills in Ruby and Javascript with my former Le Wagon classes.</p>
 <p> 👁 Looking forward to learn more about Computer Science with CS50 classes from Harvard.</p>
 <p> 📚 Studied at Le Wagon Tokyo (Batch 718 - Winter 2022).</p>
-<p> 🏊🏻‍♂️ Piscine survivor at 42 Tokyo with +400h of C and Bash(Unix) in 4 weeks - ranked 15/200.</p>
+<p> 🏊🏻‍♂️  Piscine survivor at 42 Tokyo with +400h of C and Bash(Unix) in 4 weeks - ranked 15/200.</p>
 <p> 🇯🇵 Studying japanese language and targeting JLPT N3 in July 2022.</p>
 <p> 🏛 Former career as finance legal counsel.</p>
 <p> 🥅 Goal: To build a career in Tech in Tokyo and learn everyday!</p>
