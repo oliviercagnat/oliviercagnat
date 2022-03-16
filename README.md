@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Olivier Cagnat - Full Stack Web Developer</h1>
-<h3 align="center">Who am I?</h3>
+<h2>Hi 👋, I'm Olivier Cagnat - Full Stack Web Developer</h2>
+<h3>Who am I?</h3>
 
 <p> 💻 Working with Ruby on Rails on the back end, and have been using HTML5 / CSS3 / JS(ES6) for the front end of my last projects.</p>
 <p> 🔎 Deepening my skills in Ruby and Javascript with my former Le Wagon classes.</p>
