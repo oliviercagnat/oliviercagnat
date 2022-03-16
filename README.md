@@ -12,6 +12,13 @@
 🎚 Electronic music enthusiast.
 🍛 Thai curry master.</p>
   
+- 💻 Working with **Ruby on Rails** on the back end, and then for front end I have been using **CSS3**, **HTML5** and **JS (ES6)**.
+- 🥰 I'm currently learning and loving React too!
+- 📚 Studied at Le Wagon Tokyo (Batch 718 - Winter 2022).
+- 👨‍🏫 Currently working as an English Language Instructor for Gaba.
+- 🥅 Goal: To eventually build a career in Tech and learn new languages and frameworks!
+- 🎮 Keen gamer!
+- 🍜 Ramen lover.
   
 <h3 align="left">Let's Connect!</h3>
 <p align="left">
