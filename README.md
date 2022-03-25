@@ -1,4 +1,4 @@
-<h2>Bonjour 🇫🇷 I'm Olivier Cagnat - Full Stack Web Developer</h2>
+<h2>Bonjour 🇫🇷 I'm Olivier Cagnat - Fullstack Web Developer</h2>
 <h3>Who am I?</h3>
 
 <ul>
