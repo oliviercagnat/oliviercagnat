@@ -3,11 +3,11 @@
 
 <ul>
   <li>💻 Working with <strong>Ruby on Rails</strong> on the back end, and have been using <strong>HTML5 / CSS3 / JS(ES6)</strong> for the front end of my last projects.</li>
-  <li>🔎 Deepening my skills in Ruby and Javascript with my former Le Wagon classes.</li>
+  <li>🔎 Deepening my skills in Ruby / Javascript / React-Redux with my former Le Wagon classes.</li>
   <li>👁 Looking forward to learn more about Computer Science with CS50 classes from Harvard.</li>
   <li>📚 Studied at <strong>Le Wagon Tokyo</strong> (Batch 718 - Winter 2022).</li>
   <li>🏊🏻‍♂️ Piscine survivor at 42 Tokyo with +400h of C and Bash(Unix) in 4 weeks - ranked 15/200.</li>
-  <li>🇯🇵 Studying japanese language and targeting JLPT N3 in July 2022.</li>
+  <li>🇯🇵 Studying japanese language and targeting JLPT N3 for July 2022.</li>
   <li>🏛 Former career as finance legal counsel.</li>
   <li>🥅 Goal: To build a career in Tech in Tokyo and learn everyday!</li>
   <li>🎚 Electronic music enthusiast.</li>
