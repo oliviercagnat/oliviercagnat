@@ -2,8 +2,8 @@
 <h3>Who am I?</h3>
 
 <ul>
-  <li>💻 Working with <strong>Ruby on Rails</strong> on the back end, and have been using <strong>HTML5 / CSS3 / JS(ES6)</strong> for the front end of my last projects.</li>
-  <li>🔎 Deepening my skills in Ruby / Javascript / React-Redux with my Le Wagon classes.</li>
+  <li>💻 Working with <strong>Ruby on Rails</strong> on the back end, and have been using <strong>HTML5 / CSS3 / JS(ES6)</strong> for the front end of my main last projects.</li>
+  <li>🔎 Deepening my skills in Javascript by learning MongoDB, Express, React/Redux and Node.js right now</li>
   <li>👁 Looking forward to learn more about Computer Science with CS50 classes from Harvard.</li>
   <li>📚 Studied at <strong>Le Wagon Tokyo</strong> (Batch 718 - Winter 2022).</li>
   <li>🏊🏻‍♂️ Piscine survivor at 42 Tokyo with +400h of C and Bash(Unix) in 4 weeks - ranked 15/200.</li>
