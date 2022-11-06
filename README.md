@@ -2,12 +2,10 @@
 <h3>Who am I?</h3>
 
 <ul>
-  <li>💻 Worked with <strong>Ruby on Rails / MongoDB / Express / React&Redux / Node.js</strong> for my main last projects.</li>
-  <li>👁 Looking forward to learn more about Computer Science with CS50 classes from Harvard.</li>
+  <li>💻 Worked with <strong>Ruby on Rails / React / Node.js</strong> for my main last projects.</li>
   <li>📚 Studied at <strong>Le Wagon Tokyo</strong> (Batch 718 - Winter 2022).</li>
   <li>🇯🇵 Studying japanese language and targeting JLPT N2.</li>
   <li>🏛 Former career as finance legal counsel.</li>
-  <li>🥅 Goal: To build a career in Tech and learn everyday!</li>
   <li>🎚 Electronic music enthusiast.</li>
   <li>🍛 Thai curry master.</li>
 </ul>
